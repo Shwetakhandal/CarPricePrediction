@@ -23,23 +23,23 @@
      
      |5|aspiration|Aspiration used in a car (Categorical)
     
-     |6|doornumber|Number of doors in a car (Categorical)|\t\t\n",
+     |6|doornumber|Number of doors in a car (Categorical)
      
-     |7|carbody|Body-type of a car (Categorical)|\n",
+     |7|carbody|Body-type of a car (Categorical)
      
-     |8|drivewheel|Type of drive wheel (Categorical)|\n",
+     |8|drivewheel|Type of drive wheel (Categorical)
      
-     |9|enginelocation|Location of car engine (Categorical)|\n",
+     |9|enginelocation|Location of car engine (Categorical)
      
-     |10|wheelbase|Weelbase of car (Numeric)|\t\t\n",
+     |10|wheelbase|Weelbase of car (Numeric)
      
-     |11|carlength|Length of car (Numeric)|\t\t\n",
+     |11|carlength|Length of car (Numeric)
      
-     |12|carwidth|Width of car (Numeric)|\n",
+     |12|carwidth|Width of car (Numeric)
      
-     |13|carheight|Height of car (Numeric)|\n",
+     |13|carheight|Height of car (Numeric)
      
-     |14|curbweight|The weight of a car without occupants or baggage (Numeric)|\n",
+     |14|curbweight|The weight of a car without occupants or baggage (Numeric)
      
      |15|enginetype|Type of engine (Categorical)
      
