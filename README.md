@@ -80,3 +80,9 @@
     all autos within a particular size classification (two-door small, station wagons, sports/speciality etc.),
     and represents the average loss per car per year.
   
+
+Contributions are welcome! If you have any improvements or new features you'd like to add, feel free to fork the repository and submit a pull request.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
